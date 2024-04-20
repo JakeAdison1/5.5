@@ -1,0 +1,3 @@
+﻿  5.5.cpp
+C:\Users\admin\Desktop\с плюс плюс 3\5.5\5.5\5.5.cpp(40,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  5.5.vcxproj -> C:\Users\admin\Desktop\с плюс плюс 3\5.5\x64\Debug\5.5.exe
